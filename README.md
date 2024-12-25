@@ -1,0 +1,2 @@
+# HistopathologyClassificationGeneralization
+Investigating the generalization in classifying histopathology images by introducing slide stain augmentetations
